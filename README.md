@@ -3,7 +3,7 @@
 > *"I design how it feels."*  
 > An engineer by education. A designer driven by curiosity.
 
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-vaishnvikedar6--jpg.github.io-ED6682?style=for-the-badge&logo=github)](https://vaishnvikedar6-jpg.github.io/My-Design-Folio/)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-vaishnvikedar6--jpg.github.io-ED6682?style=for-the-badge&logo=github)](https://vaishnvikedar6-jpg.github.io/new-design-folio/)
 [![Figma](https://img.shields.io/badge/Figma-Prototypes-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/design/4z78d3naEOI0XzCR0oc4J7/AVIRA?node-id=12-790)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS%20v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -15,7 +15,7 @@
 
 A modern, editorial UI/UX designer portfolio rebuilt with an interactive launchboard concept, delicate floral aesthetics, and motion design. Designed and engineered for the **Skillinf Portfolio Design Hackathon 2026**.
 
-**Live URL**: [https://vaishnvikedar6-jpg.github.io/My-Design-Folio/](https://vaishnvikedar6-jpg.github.io/My-Design-Folio/)
+**Live URL**: [https://vaishnvikedar6-jpg.github.io/new-design-folio/](https://vaishnvikedar6-jpg.github.io/new-design-folio/)
 
 ---
 
@@ -83,10 +83,10 @@ A modern, editorial UI/UX designer portfolio rebuilt with an interactive launchb
 
 ```bash
 # Clone the repository
-git clone https://github.com/vaishnvikedar6-jpg/My-Design-Folio.git
+git clone https://github.com/vaishnvikedar6-jpg/new-design-folio.git
 
 # Navigate to project directory
-cd My-Design-Folio
+cd new-design-folio
 
 # Install dependencies
 npm install
@@ -109,7 +109,7 @@ npm run deploy
 
 ## 📬 Contact & Links
 
-- **Portfolio:** [vaishnvikedar6-jpg.github.io/My-Design-Folio](https://vaishnvikedar6-jpg.github.io/My-Design-Folio/)
+- **Portfolio:** [vaishnvikedar6-jpg.github.io/new-design-folio](https://vaishnvikedar6-jpg.github.io/new-design-folio/)
 - **LinkedIn:** [linkedin.com/in/vaishnavikedar](https://www.linkedin.com/in/vaishnavikedar/)
 - **Behance:** [behance.net/vaishnavikedar](https://www.behance.net/vaishnavikedar)
 - **GitHub:** [github.com/vaishnvikedar6-jpg](https://github.com/vaishnvikedar6-jpg)

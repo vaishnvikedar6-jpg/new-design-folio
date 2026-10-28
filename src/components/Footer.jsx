@@ -23,7 +23,7 @@ export default function Footer({ onOpenResume }) {
   const socialLinks = [
     {
       name: 'Portfolio',
-      url: 'https://vaishnvikedar6-jpg.github.io/My-Design-Folio/',
+      url: 'https://vaishnvikedar6-jpg.github.io/new-design-folio/',
       icon: Globe,
     },
     {
